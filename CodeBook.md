@@ -45,3 +45,6 @@ tBodyAccMean
 tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
+
+
+Those feature variables are group means for each activity and each subject.
