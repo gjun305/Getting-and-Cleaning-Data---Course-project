@@ -1,8 +1,6 @@
 # Getting-and-Cleaning-Data---Course-project
 Course project
 
-In this project, what I do is to follow every step that instructor told us to do.
-
 To complete step 1 'Merges the training and the test sets to create one data set.', 
 I need to first merge X_train.txt and Y_train.txt to create training data set, then merge 
 X_test.txt and Y_test.txt to have test data set. Then I merge variable 'subject' separately 
